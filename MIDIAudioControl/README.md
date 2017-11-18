@@ -13,6 +13,7 @@ Windows audio managment:
 
 Input/Ouput Structure:
 https://vimeo.com/album/2801639/video/97524853
+https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-an-arduino/
 
 AUTHORS:
  - Alexander Nordstrom
