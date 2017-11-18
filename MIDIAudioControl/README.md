@@ -15,6 +15,9 @@ Input/Ouput Structure:
 https://vimeo.com/album/2801639/video/97524853
 https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-serial-communication-using-an-arduino/
 
+Windows MIDI C++ Control:
+https://msdn.microsoft.com/en-us/library/windows/desktop/dd798495(v=vs.85).aspx
+
 AUTHORS:
  - Alexander Nordstrom
  - Ahmed Alhag
