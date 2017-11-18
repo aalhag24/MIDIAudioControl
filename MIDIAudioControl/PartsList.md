@@ -9,6 +9,7 @@ Rotary Potentiometer :
 
  Slide Potentiometer :
  - https://www.sparkfun.com/products/9119
+ - https://www.digikey.com/product-detail/en/tt-electronics-bi/PS100-2B1AR10K/987-1407-ND/2620676
 
 Button Pad:
 - https://www.sparkfun.com/products/7836
