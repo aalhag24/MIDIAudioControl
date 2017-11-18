@@ -21,6 +21,9 @@ https://msdn.microsoft.com/en-us/library/windows/desktop/dd798495(v=vs.85).aspx
 Arduino as MIDI:
 https://www.arduino.cc/en/Tutorial/MidiDevice
 
+Arduino Serial to MIDI:
+http://projectgus.github.io/hairless-midiserial/
+
 AUTHORS:
  - Alexander Nordstrom
  - Ahmed Alhag
