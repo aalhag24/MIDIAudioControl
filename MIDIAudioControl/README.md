@@ -11,6 +11,9 @@ Windows audio managment:
  - https://msdn.microsoft.com/en-us/library/bb384843.aspx
  - https://github.com/Microsoft/Windows-classic-samples/blob/master/Samples/Win7Samples/multimedia/audio/CaptureSharedTimerDriven/WASAPICapture.h
 
+Input/Ouput Structure:
+https://vimeo.com/album/2801639/video/97524853
+
 AUTHORS:
  - Alexander Nordstrom
  - Ahmed Alhag
