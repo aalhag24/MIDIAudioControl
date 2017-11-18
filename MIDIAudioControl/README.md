@@ -10,7 +10,6 @@ Windows audio managment:
  - https://msdn.microsoft.com/en-us/library/dd316531(v=VS.85).aspx
  - https://msdn.microsoft.com/en-us/library/bb384843.aspx
  - https://github.com/Microsoft/Windows-classic-samples/blob/master/Samples/Win7Samples/multimedia/audio/CaptureSharedTimerDriven/WASAPICapture.h
- 
 
 AUTHORS:
  - Alexander Nordstrom
