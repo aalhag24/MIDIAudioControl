@@ -18,6 +18,9 @@ https://itp.nyu.edu/physcomp/labs/labs-serial-communication/two-way-duplex-seria
 Windows MIDI C++ Control:
 https://msdn.microsoft.com/en-us/library/windows/desktop/dd798495(v=vs.85).aspx
 
+Arduino as MIDI:
+https://www.arduino.cc/en/Tutorial/MidiDevice
+
 AUTHORS:
  - Alexander Nordstrom
  - Ahmed Alhag
